@@ -2,23 +2,23 @@
 This repository contains all tasks completed as part of the **Java Development Internship** at **Cognifyz Technologies**. The internship focused on strengthening core Java skills, file handling, networking, multithreading, Swing, and API integration.
 
 ## 📂 Project Structure
-Cognifyz-Java-Internship/
-├── Level-1/
-│   ├── TemperatureConverter.java
-│   ├── PalindromeChecker.java
-│   ├── StudentGradeCalculator.java
-│   └── RandomPasswordGenerator.java
-├── Level-2/
-│   ├── TicTacToe.java
-│   ├── PasswordStrengthChecker.java
-│   └── FileEncryptionDecryption.java
-├── Level-3/
-│   ├── ChatServer.java
-│   ├── ChatClient.java
-│   ├── MultiThreadedApp.java
-│   ├── DesktopCalculator.java
-│   └── CurrencyConverter.java
-└── README.md
+    Cognifyz-Java-Internship/
+    ├── Level-1/
+    │   ├── TemperatureConverter.java
+    │   ├── PalindromeChecker.java
+    │   ├── StudentGradeCalculator.java
+    │   └── RandomPasswordGenerator.java
+    ├── Level-2/
+    │   ├── TicTacToe.java
+    │   ├── PasswordStrengthChecker.java
+    │   └── FileEncryptionDecryption.java
+    ├── Level-3/
+    │   ├── ChatServer.java
+    │   ├── ChatClient.java
+    │   ├── MultiThreadedApp.java
+    │   ├── DesktopCalculator.java
+    │   └── CurrencyConverter.java
+    └── README.md
 
 ## ✅ Level 1 — Basic Java Programs
 **1. Temperature Converter:** Converts temperature between Celsius and Fahrenheit. Skills: User input, arithmetic operations.  
