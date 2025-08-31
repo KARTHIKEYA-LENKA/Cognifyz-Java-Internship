@@ -67,4 +67,4 @@ Watch demo: [DEMO VIDEO OF PROJECT](https://drive.google.com/file/d/1anPvVdpkebz
 ## 👤 Author
 Lenka Karthikeya  
 LinkedIn: [www.linkedin.com/in/lenka-karthikeya-2a01a7253](https://www.linkedin.com/in/lenka-karthikeya-2a01a7253)  
-GitHub: [https://github.com/lenka-karthikeya](https://github.com/lenka-karthikeya)
+GitHub: [https://github.com/lenka-karthikeya](https://github.com/KARTHIKEYA-LENKA)
